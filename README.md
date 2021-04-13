@@ -26,13 +26,16 @@ I do some community contributions as well, you can see all of my contributions a
   * <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
   * <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   
-  I also use some databases like :  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>-<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>  -  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+I also use some databases like :  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>-<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>  -  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   
-  For testing i have experience with : <img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?&style=for-the-badge&logo=jasmine&logoColor=white" /> - <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/> - <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>  
+For testing i have experience with : <img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?&style=for-the-badge&logo=jasmine&logoColor=white" /> - <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/> - <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>  
   
-  Well, this is getting a little big, a lot of information, and belive or not, i have much more to say, so, if you wanna know more, lets get in touch !
+Well, this is getting a little big, a lot of information, and belive or not, i have much more to say, so, if you wanna know more, lets get in touch !
  
 - [Isaac Meira](https://www.isaacmeira.dev)
 - [LinkedIn](https://www.linkedin.com/in/isaac-meira-15b8b7143/)
 - [isaacmeira](https://isaacmeira.medium.com/) Know my work on Medium ( Portuguese Content )
+
+
+[![Isaacmeira GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacmeira&show_icons=true&theme=radical)](https://github.com/isaacmeira/github-readme-stats)
 
