@@ -1,8 +1,8 @@
 # Hello 😄
 
-i'm Isaac Meira, a software enginner with 3 years + of experience. 
+i'm Isaac Meira, a software enginner with 5 years + of experience. 
 
-i passed by some big companies such Rede Globo and Ci&t, and i love make new and awesome things, i also like read technical books and now im studying about project management, doing the google professional certificate in project managing.
+i passed by some big companies such Rede Globo, Ci&t and Mercado Libre and i love make new and awesome things, i also like read technical books and now im studying about project management, doing the google professional certificate in project managing.
 
 I do some community contributions as well, you can see all of my contributions at: https://www.isaacmeira.dev 
 
